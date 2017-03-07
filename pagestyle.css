@@ -1,0 +1,41 @@
+.wrapper {
+  background-image: url(img_0150.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:scroll;
+  background-position: center;
+  width: 1349px;
+  height: 600px;
+}
+.welcome-text{
+  font-family: 'Indie Flower', cursive;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.red-box {
+  background-color: #D3120E;
+  padding: 35px 0px 30px 0px;
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  line-height: normal;
+  font-weight: 700;
+}
+.second-part {
+  text-align: center;
+  background-color: pink;
+  font-family: 'Abel', sans-serif;
+
+}
+.third-class {
+background-color: pink;
+font-family: 'Philosopher', sans-serif;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid red;
+    background-color: white;
+    color:pink;
+  }
